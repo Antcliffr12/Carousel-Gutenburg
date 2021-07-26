@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/editorStyle.scss"],"names":[],"mappings":"AAAA;EACI;EACH;EACA;AACD,C","file":"editorStyle.css","sourcesContent":[".category-select div{\n    max-height: 200px;\n\toverflow: hidden scroll;\n\tborder: 1px solid #b3bcc0;\n}"],"sourceRoot":""}
